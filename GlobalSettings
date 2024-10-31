@@ -1,6 +1,6 @@
 {
 	"groupBlacklist": [],
-	"playerBlacklist": [],
+	"playerBlacklist": [34865029],
 	"ayCoreWhitelist": [34865029],
 	"daylightSavingInFinland": true
 }
